@@ -17,5 +17,6 @@ def ask_word():
 
 def compare_word(word):
 
+
 secret = get_word()
 
